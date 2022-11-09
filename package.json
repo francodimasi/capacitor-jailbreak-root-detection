@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "BasecomGmbhCapacitorJailbreakRootDetection.podspec"
+    "UepmCapacitorJailbreakRootDetection.podspec"
   ],
   "author": "Phil Miletic <p.miletic@basecom.de>",
   "license": "MIT",
